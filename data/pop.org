@@ -1,0 +1,623 @@
+#+STARTUP: showall
+
+* Progressions
+
+** Major
+
+*** V IV I V
+
+- The Guess Who - No Sugar Tonight  (Chorus)
+
+*** V IV I I
+
+- Warren Zevon - Werewolves Of London
+- Kid Rock - All Summer Long
+- Lynyrd Skyrynd - Sweet Home Alabama (Verse)
+
+*** V vi IV IV
+
+- Catherine Wheel - Black Metallic
+
+*** V vi IV I
+
+- Spice Girls - Wannabe (Chorus)
+
+*** V ii IV I
+
+- Jason Derulo - Riding Solo
+- The Verve - Bitter Sweet Symphony
+- The Dandy Warhols - We Used to Be Friends (Verse)
+- The Smashing Pumpkins - Rocket (Chorus)
+
+*** IV V vi I
+
+- The Fray - How to Save a Life (Chorus)
+- Taylor Swift - The Last Time (Verse)
+
+*** IV V vi iii
+
+- Blue - One Love (Chorus)
+
+*** IV V iii vi
+
+- Sia - Titanium (Chorus)
+- Rihanna - Umbrella (Verse)
+- Suzanne Vega - In Liverpool (Chorus)
+- Rick Astley - Never Gonna Give You Up (Chorus)
+- Patti Smith - Frederick
+- Madonna - 4 Minutes (Chorus)
+
+*** IV V iii I
+
+- Coldplay - Viva La Vida
+
+*** IV V ii vi
+
+- Shirley Bassey - Jezehel (Chorus)
+
+*** IV IV V vi
+
+- Kesha - Tik Tok
+
+*** IV I V V
+
+- The Verve - Lucky Man (verse)
+- Future Islands - A Song For Our Grandfathers
+- Live - Lightning Crashes
+- Aimee Mann - Deathly (Chorus)
+- Aimee Mann - Labrador (Chorus)
+- Carly Rae Jepsen - I Really Like You (Chorus)
+- Len - Steal My Sunshine
+- Natalie Merchant - Kind and Generous (Chorus)
+- Collective Soul - Shine (Chorus)
+- RHCP - Desecration Smile (Chorus)
+- Ben Rector - And Then You Love Someone (Chorus)
+- The Kinks - Celluloid Heroes (Chorus)
+
+*** IV I V I
+
+- Tom Petty - Wildflowers
+
+*** IV I V vi
+
+- Tom Petty - Something Good Coming (Chorus)
+- The Script: Breakeven (Chorus)
+- Passenger: Let Her Go (Chorus)
+- Owl City: Good Time
+- Jordin Sparks - Battlefield (Chorus)
+- Rihanna: Umbrella (Chorus)
+- Taylor Swift: We are never ever ever getting back together (IV I V vi-V)
+- Taylor Swift: Breathe (Chorus)
+- Jay Sean - Down (Chorus)
+- Train - Drive By (Chorus), Last part ends with ii iii instead of V vi
+- Braken - To The Stars (Chorus-y bit)
+- RHCP - Tell Me Baby (Chorus)
+- RHCP - Hard To Concentrtate (Chorus)
+- Ed Sheeran - Galway Girl (Chorus)
+- Peter Gabriel - Blood of Eden (Chorus)
+- Sean Paul - Got 2 Luv U (Prechorus)
+
+*** IV I V iii
+
+- Jay Sean - Down (Verse)
+
+*** IV I V ii
+
+- Green Day - Boulevard of Broken Dreams (Chorus)
+- Oasis - Little by Little (Chorus)
+- Nickelback - Someday (Chorus)
+- The Dandy Warhols - We Used to Be Friends (Prechorus)
+
+*** IV I vi V
+
+- Jason Derulo - Whatcha Say (Alternates between IV I vi V  and IV I vi iii)
+- Maroon 5 - Payphone
+- Demi Lovato - Give Your Heart a Break
+- Sigala, Paloma Faith - Lullaby
+- Panic! At The Disco - High Hopes
+
+*** IV I vi iii
+
+- Nicki Minaj: Starships (IV I (V), vi iii (IV))
+- Diddy/Skylar Grey: Coming Home
+
+*** IV I iii vi
+
+- The Wallflowers - One Headlight (Verse)
+
+*** IV I ii V
+
+- The Wallflowers - One Headlight (Chorus), dominant second 
+
+*** IV vi V V
+
+- The Vamps - Middle of the Night
+
+*** IV vi ii I
+
+- Maroon 5 - Sugar
+
+*** IV ii iii vi
+
+- Stevie Wonder - Pastime Paradise / Coolio - Gangsta's Paradise
+
+*** I V IV V
+
+- Hansen - Mmmbop
+- Def Leppard - When Love And Hate Collide (Chorus)
+- Roxy Music - Avalon
+
+*** I V IV IV
+
+- Busted - Year 3000
+- Third Eye Blind - Semi-Charmed Life
+- Bruno Mars - The Lazy Song (Last line of chorus slightly different)
+- Santana - Why Don't You And I
+- Dobie Gray - Drift Away (Chorus)
+
+*** I V IV I
+
+- Mazzy Star - Be My Angel (Verse, Chorus)
+
+*** I V bVII IV
+
+- TLC - Waterfalls
+
+*** I V vi IV
+
+- Guster - Window
+- Green Day - When I Come Around (Verse, Chorus - just not the prechorus)
+- Better than Ezra - Good (Chorus, bit of the verse as well)
+- John Hiatt - Cry Love
+- Jason Mraz: I'm Yours
+- Black Eyed Peas: Where Is The Love
+- James Blunt - You're Beautiful (Verse)
+- Imagine Dragons: Demons
+- Frozen: Let It Go (Chorus)
+- Miley Cyrus: Wrecking Ball (Chorus)
+- Taylor Swift - I knew you were trouble (Verse)
+- Natalie Imbruglia: Torn (Chorus)
+- RHCP - Under the Bridge (Verse)
+- The Calling: Wherever You Will Go
+- Mika: Happy Ending (Chorus)
+- Journey: Don't Stop Believin' (Verse) (Alternates between I V vi IV and I V iii IV)
+- Train: Hey Soul Sister
+- Rihanna: Take A Bow
+- Marcy Playground - Sex & Candy (End of chorus - Mamma this surely is a dream)
+- The Beatles - Let It Be (Verse, followed by I V IV I)
+- Bush - Glycerine
+- The Rolling Stones - Beast of Burden
+- Akon - Don't Matter
+- Adele - Someone Like You (Chorus)
+- Five For Fighting - Superman
+- The Decemberists - The Wrong Year (I V vi Vmaj7)
+- Avril Lavigne - Girlfriend (Verse, Chorus)
+- Rainbow - Since You've Been Gone (Chorus)
+- U2 - With Or Without You
+- Meredith Brooks - Bitch (Chorus - alternates bwetween I V ii IV and I V vi IV)
+- 3 Doors Down - Here Without You (Chorus)
+
+*** I V vi vi
+
+- Lynyrd Skynyrd - Simple Man
+
+*** I V ii IV
+
+- Nickelback - Rockstar (Verse)
+- Peter Frampton - Baby, I Love Your Way (Chorus)
+- Semisonic - Closing Time
+- Katy Perry - Hot N Cold
+- Smash Mouth - All Star (Verse, possibly Chorus as well?)
+- David Brent - Life on the Road (Chorus)
+- TLC - Waterfalls
+- The Cure - Just Like Heaven
+- Skunk Anansie - Hedonism - Just Because You Feel Good (Chorus)
+- John Hiatt - My Old Friend (Sometimes goes into I V IV IV in the verse)
+- Better than Ezra - Good (Verse)
+- Joe Henry - Dead to the World (bit of this)
+- Toad The Wet Sprocket - Crazy Life (Verse)
+- Taylor Swift - You Belong With Me (Verse)
+
+*** I V ii vi
+
+- The Kinks - I'm Not Like Like Everybody Else (Verse)
+
+*** I V ii ii
+
+- Mazzy Star - Fade Into You
+- Aimee Mann - Red Vines (Chorus)
+- Eliza Gilkyson - Is It Like Today (Verse)
+
+*** I IV V V
+
+- Def Leppard - Pour Some Sugar On Me (Chorus)
+
+*** I IV V IV
+
+- Grease - Summer Nights (Verse)
+- Noah and the Whale - Five Years Time
+- Def Leppard - Two Steps Behind (Verse, Chorus)
+- Juice Newton - Angel of the Morning (Verse, Chorus)
+- Timbuk 3 - A Hundred Lovers (Verse)
+
+*** I IV V I
+
+- S Club 7 -  Bring it All Back (Verse, Chorus)
+- Anna Nalick - Breathe 2AM (Verse)
+
+*** I IV V vi
+
+- Wheatus - Teenage Dirtbag (Chorus. More like I IV V vi→iii)
+- OutKast - Hey Ya! (Not quite; duration-wise, IV is twice as long and V is half as long)
+- Foy Vance - First Of July (then I IV V I)
+- Jason Isbell - The Blue (Verse)
+- Book of Mormon - Baptize Me (Chorus)
+
+*** I IV I V
+
+- Elton John - The Lion Sleeps Tonight
+
+*** I IV bVII I
+
+- Mouse Rat - The Pit
+
+*** I IV vi V
+
+- Busted - That's What I Go to School For
+- David Brent - Free Love Freeway
+- The Verve Pipe - The Freshmen (I IV vi V→IV)
+- Fine Young Cannibals - She Drives Me Crazy
+
+*** I IV ii V
+
+- The Lightning Seeds - Pure (Chorus)
+
+*** I IV ii IV
+
+- Black Eyed Peas - I Gotta Feeling
+
+*** I I IV V
+
+- Blondie - The Tide Is High
+- Eric Carmen - Hungry Eyes (Intro, Chorus)
+
+*** I bVII IV I
+
+- Madonna - Express Yourself
+- Lady Gaga - Born this Way
+- Rolling Stones - Sympathy For The Devil
+- Ten Years After - 50,000 Miles Beneath my Brain
+
+*** I vi V IV
+
+- Spin Doctors - Two Princes
+- P!nk - Don't Let Me Get Me (everything apart from the prechorus)
+
+*** I vi IV V
+
+- Pearl Jam - Last Kiss
+- Pink - Just Like a Pill (not sure about this - Chorus)
+- Marc Cohn - Walking In Memphis (Verse)
+- Starship - Nothing's Gonna Stop Us Now
+- Sting - Every Breath You Take (Verse)
+- Cowboy Junkies - Blue Moon Revisited
+- Sam Cooke - (What A) Wonderful World (Verse)
+
+*** I vi IV I
+
+- Sean Kingston - Beautiful Girls (I vi IV→V I)
+- The Impressions - People Get Ready
+
+*** I vi vi ii
+
+- Coldplay - Clocks
+
+*** I vi iii IV
+
+- Pixies - Where is my mind?
+
+*** I vi ii IV
+
+- Taylor Swift - Blank Space (Chorus)
+
+*** I iii IV V
+
+- Ed Sheeran - Thinking Out Loud
+
+*** I iii IV IV
+
+- CHVRCHES - The Mother We Share (Chorus)
+
+*** I iii IV I
+
+- Van Morrison - Crazy Love (Verse)
+
+*** I iii vi V
+
+- Coldplay - Fix You (Bridge?)
+
+*** I iii vi IV
+
+- Jessie J - Price Tag
+- Adele - Someone Like You (Verse)
+- 5 Seconds of Summer - She Looks So Perfect
+
+*** I ii IV V
+
+- Take That - Back for Good
+- Nena - 99 Red Balloons (I V/V IV V)
+
+*** I ii IV IV
+
+- Vance Joy - Red Eye
+
+*** I ii IV I
+
+- Oasis - All Around the World
+- 4 Non Blondes - What's Up
+
+*** ii V iii vi
+
+- Kelly Rowland - Dilemma
+
+*** ii IV V ii
+
+- Electric Six - Danger! High Voltage
+
+*** ii IV I V
+
+- Oasis - Wonderwall
+- Nickelback - How you remind me
+- Pearl Jam - Alive
+- Kenny Kravitz - Fly Away (well, more like power chords)
+- Justin Timberlake - What Goes Around... Comes Around
+- Aimee Mann - Stupid Thing (Chorus)
+- The Dandy Warhols - Bohemian Like You
+- Foster The People -  Pumped Up Kicks
+- Florence + The Machine - No Light, No Light
+- Coldplay - Paradise
+- Steve Harley - Make Me Smile (Chorus)
+- James Blunt - Wisemen (Chorus (I))
+- Ludovico Einaudi - Divenire
+- Beth Orton - Stolen Car
+- Anna Nalick - Breathe 2AM (Prechorus)
+- KT Tunstall - Lost (Chorus)
+
+*** ii IV I I
+
+- Taylor Swift - Shake It Off
+
+*** ii IV vi V
+
+- Daft Punk - Get Lucky
+
+*** ii IV iii vi
+
+- Frank Valli - The Four Seasons (Chorus)
+
+*** ii ii IV V
+
+- Duck Sauce - Barbra Streisand ('Chorus')
+
+** Minor
+
+*** VI VII VII i
+
+- Madonna - Holiday (Alternates between VI VII VII i and VI VII v VI)
+
+*** VI VII i i
+
+- Anastacia - Left Outside Alone (Chorus - Alternates between VI VII i i and VI VII v v)
+- Stevie Nicks - Edge of Seventeen
+
+*** i VII VI VII
+
+- Gotye: Somebody That I Used To Know
+- Blue Oyster Cult: Don't Fear The Reaper
+- Aerosmith - Dream On (Chorus)
+- Styx - Suite Madam Blue (Chorus I)
+
+*** i VII VI III
+
+- Mika: Happy Ending (Verse)
+- The Beatles - Let It Be (Chorus, followed by III VII VI III)
+
+*** i VII VI iv
+
+- Nelly Furtado - Say It Right
+
+*** i VII III VI
+
+- Bryan Adams - Summer of '69
+- Taio Cruz - Dynamite
+- The Script - Breakeven (Verse)
+
+*** i VII III III
+
+- Vance Foy - Riptide
+
+*** i VII III v
+
+- Cage the Elephant - Cold Cold Cold (Chorus)
+
+*** i VII v VI
+
+- RHCP - Can't Stop
+- Jennifer Lopez - Waiting for Tonight
+- Beyonce - Sweet Dreams (Alternates between vi V iii IV and vi V I ii)
+- David Ford - State of the Union
+- Camila Cabello - Crying in the Club
+- Emancipator - Nevergreen
+
+*** i VII iv VI
+
+- The Cardigans - My Favourite Game
+
+*** i VI VII VII
+
+- Avril Lavigne - Complicated (End with a dominant second)
+
+*** i VI VII III
+
+- Taylor Swift: I Knew You Were Trouble
+- Zamfir: The Lonely Shepherd
+
+*** i VI VII i
+
+- Queen - I want it all (chorus)
+
+*** i VI VII v
+
+- Passenger - Let Her Go (Verse)
+- Frozen - Let It Go (Verse)
+- Clean Bandit - Rockabye
+- The Killers - Somebody Told Me (Chorus)
+- Sean Paul - Got 2 Luv U (Verse, Chorus)
+
+*** i VI III VII
+
+- Tom Petty - Something Good Coming (Verse)
+- Coldplay - The Scientist (Verse)
+- Jason Isbell - The Blue (Chorus)
+- Warren Zevon - Splendid Isolation (Verse)
+- Tracy Bonham - Something Beautiful
+- Shakira - Whenever, Whenever (Chorus - alternates between this and vi IV ii V)
+- Typhoon - Summer Home (Chorus)
+- Tinchy Stryder - Number 1
+- Green Day: 21 Guns (Verse)
+- Green Day - Holiday (Alternates between this and vi IV I iii)
+- The Offspring: Self Esteem
+- The Offspring: The Kids Aren't Alright
+- Pitbull: International Love
+- Pitbull: Give Me Everything
+- Damien Rice: 9 Crimes
+- Damien Rice: Rootless Tree
+- Natalie Merchant: My Skin (Chorus)
+- Flo Rida: Whistle
+- MGMT - Kids
+- Of Monsters And Men - Little Talks
+- Iggy Pop - Passenger (Alternates between this and vi IV I iii)
+- Eminem/Skylar Grey: Love The Way You Lie
+- Linkin Park: Numb
+- RHCP: Snow (Hey Oh)
+- RHCP: Don't Forget Me
+- One Republic - Apologise
+- Hillsong - From The Inside Out (Chorus - Last line is different)
+- IYAZ - Replay
+- Luis Fonsi - Despacito 
+- Jason Derulo - In My Head
+- Bruno Mars - Grenade (Chorus)
+- Eagle Eye Cherry - Save Tonight
+- The Cranberries - Zombie
+- Sarah McLachlan - Building a Mystery (Verse)
+- David Brent - Lady Gypsy
+- Trace Bundy - Elephant King (Verse)
+- Sia/Sean Paul - Cheap Thrills
+- Arcade Fire -  Rebellion (Chorus)
+- The Smashing Pumpkins - Disarm (Verse)
+- Taylor Swift - You're Not Sorry
+
+*** i VI III III
+
+- Ed Sheeran - Give Me Love (Verse)
+- Tom Petty - I Won't Back Down (Verse)
+- Sam Smith - Stay With Me
+
+*** i VI III v
+
+- Amy MacDonald - This is the Life
+
+*** i VI iv VII
+
+- Europe - The Final Countdown (Intro, Chorus)
+
+*** i III VII VI
+
+- Avicii -  Wake Me Up (B minor/D major)
+- OMAM: Little Talks
+- Pitbull - Timber
+- Nelly Furtado: All Good Things (Come To An End)
+- David Guetta - Where Them Girls At
+- OneRepublic - Counting Stars
+- Rihanna - Disturbia
+- Bloodhound Gang - The Bad Touch
+- Ed Sheeran - Galway Girl (Verse)
+- Flo Rida - Good Feeling
+- Miley Cyrus - Wrecking Ball (Verse)
+- Dragonforce - Valley of the Damned (Intro/Riff)
+- MRC - Lové
+
+*** i III VII iv
+
+- Green Day - Boulevard of Broken Dreams (Verse)
+- Tears For Fears - Mad World (Verse, Dominant Second)
+- Morcheeba - Blood Like Lemonade (Chorus)
+- ZZ Ward - Put the Gun Down (Verse)
+- Staind - It's Been Awhile
+
+*** i III VI III
+
+- David Guetta - Sexy Bitch
+- Wiz Khalifa - See You Again
+
+*** i III VI v
+
+- Gnarls Barkley - Crazy
+
+*** i III VI iv
+
+- Joe Jackson - Fools In Love (Verse)
+
+*** i III v VII
+
+- Yann Tiersen - Comptine d'un autre été l'apr-midi
+
+*** i i VII VI
+
+- Snow Patrol - Set Fire To The Third Bar
+- LMFAO - Party Rock Anthem
+
+*** i i VI VII
+
+- Eminem - Lose Yourself (Chorus)
+- Mis-Teeq - Scandalous
+
+*** i i VI III
+
+- B.O.B - Airplanes
+
+*** i v VII iv
+
+- ZZ Ward - Put the Gun Down (Chorus)
+- James Blunt - Wisemen (Verse)
+- RHCP - Especially In Michigan (Verse)
+- The Raconteurs - Steady As She Goes (Verse)
+
+*** i v VI VII
+
+- Ed Sheeran - Don't
+
+*** i v VI VI
+
+- CHVRCHES - The Mother We Share (Verse)
+
+*** i v VI III
+
+- Spice Girls - Viva Forever
+- Weezer - Say it Ain't So
+
+*** i v VI iv
+
+- Regina Spektor - All the Rowboats
+
+*** i v III VI
+
+- Avril Lavigne - Girlfriend
+
+*** i iv VI VII
+
+- Ed Sheeran - Shape Of You
+
+*** i iv VI III
+
+- Natasha Bedingfield - Unwritten (Chorus)

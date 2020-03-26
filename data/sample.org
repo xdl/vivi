@@ -1,0 +1,25 @@
+#+STARTUP: showall
+
+* Progressions
+
+** Major
+
+*** V IV I V
+
+- The Guess Who - No Sugar Tonight  (Chorus)
+
+*** V IV I I
+
+- Warren Zevon - Werewolves Of London
+- Kid Rock - All Summer Long
+- Lynyrd Skyrynd - Sweet Home Alabama (Verse)
+
+** Minor
+
+*** i v III VI
+
+- Avril Lavigne - Girlfriend
+
+*** i iv VI VII
+
+- Ed Sheeran - Shape Of You
