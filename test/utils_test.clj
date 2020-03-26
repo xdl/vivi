@@ -9,4 +9,4 @@
     (is (= (get-chord "IV" 2) :G)) ; fourth of D
     (is (= (get-chord "vi" 3) :Cm)) ; sixth of Db
     (is (= (get-chord "bVII" 1) :B)) ; flattened seventh of Db
-    (is (= (get-chord "VII" 3) :Db)))) ; seventh of Bb
+    (is (= (get-chord "VII" 3) :Db)))) ; seventh of Db
